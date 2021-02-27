@@ -35,7 +35,7 @@
    
  <li><a target="_blank" href="https://github.com/manjunath5496/James-Clerk-Maxwell-Books/blob/master/m(10).pdf" style="text-decoration:none;">On Double Refraction in a Viscous Fluid in motion</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/James-Clerk-Maxwell-Books/blob/master/m(11).pdf" style="text-decoration:none;">On the theory of compound colours, and the relations of the colours of the spectrum</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/James-Clerk-Maxwell-Books/blob/master/m(12).pdf" style="text-decoration:none;">On the dynamical theory of gases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/James-Clerk-Maxwell-Books/blob/master/m(12).pdf" style="text-decoration:none;">The Bakerian Lecture — On the viscosity or internal friction of air and other gases</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/James-Clerk-Maxwell-Books/blob/master/m(13).pdf" style="text-decoration:none;">On stresses in rarified gases arising from inequalities of temperature</a></li>
   
   
